@@ -30,6 +30,8 @@ hooks:
     directory: "/home/me/Projects/PlantUML-Pywal/"
 ```
 
+EDIT: The container may not require a restart at all
+
 
 # With markdown-preview
 
