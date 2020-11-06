@@ -1,7 +1,7 @@
 # PlantUML-Pywal
 A locally hosted PlantUML server that uses system colors
 
-![](https://i.imgur.com/ZwmdJ28.png)
+![](https://i.imgur.com/fYrH15L.png)
 
 # Purpose
 
