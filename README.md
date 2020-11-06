@@ -1,6 +1,8 @@
 # PlantUML-Pywal
 A locally hosted PlantUML server that uses system colors
 
+![](https://i.imgur.com/ZwmdJ28.png)
+
 # Purpose
 
 I use [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim), which is a great plugin for writing markdown in neovim and previewing it live in your browser.
@@ -66,5 +68,4 @@ Note that the config file created by `pywal` is mounted to `include/plantuml.pum
 
 Now, no matter what system I am on, the diagrams I preview in my markdown will be appropriately colored.
 
-![](https://i.imgur.com/ZwmdJ28.png)
 
