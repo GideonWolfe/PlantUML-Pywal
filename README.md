@@ -71,4 +71,4 @@ Note that the config file created by `pywal` is mounted to `include/plantuml.pum
 
 Now, no matter what system I am on, the diagrams I preview in my markdown will be appropriately colored.
 
-
+Credit to [Puml Themes](https://bschwarz.github.io/puml-themes/) for the theme template which got me started.
